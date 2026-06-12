@@ -1,0 +1,172 @@
+Uri: https://cdn.jsdelivr.net/npm/leaflet-textpath/leaflet.textpath.min.js
+File Name: E:\평평지구2\www.koreamanri.com\npm\leaflet-textpath\leaflet.textpath.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/pretendard@latest/dist/web/variable/pretendardvariable.css
+File Name: E:\평평지구2\www.koreamanri.com\npm\pretendard@latest\dist\web\variable\pretendardvariable.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/pretendard@latest/dist/web/variable/woff2/PretendardVariable.woff2
+File Name: E:\평평지구2\www.koreamanri.com\npm\pretendard@latest\dist\web\variable\woff2\PretendardVariable.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js
+File Name: E:\평평지구2\www.koreamanri.com\npm\three@0.128.0\build\three.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/DRACOLoader.js
+File Name: E:\평평지구2\www.koreamanri.com\npm\three@0.128.0\examples\js\loaders\DRACOLoader.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js
+File Name: E:\평평지구2\www.koreamanri.com\npm\three@0.128.0\examples\js\loaders\GLTFLoader.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js
+File Name: E:\평평지구2\www.koreamanri.com\ajax\libs\hammer.js\2.0.8\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/images/spritesheet-2x.png
+File Name: E:\평평지구2\www.koreamanri.com\ajax\libs\leaflet.draw\1.0.4\images\spritesheet-2x.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/images/spritesheet.png
+File Name: E:\평평지구2\www.koreamanri.com\ajax\libs\leaflet.draw\1.0.4\images\spritesheet.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/images/spritesheet.svg
+File Name: E:\평평지구2\www.koreamanri.com\ajax\libs\leaflet.draw\1.0.4\images\spritesheet.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css
+File Name: E:\평평지구2\www.koreamanri.com\ajax\libs\leaflet.draw\1.0.4\leaflet.draw.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js
+File Name: E:\평평지구2\www.koreamanri.com\ajax\libs\leaflet.draw\1.0.4\leaflet.draw.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Nanum+Myeongjo:wght@700&family=Yeon+Sung&display=swap
+File Name: E:\평평지구2\www.koreamanri.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap
+File Name: E:\평평지구2\www.koreamanri.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&family=Yeon+Sung&display=swap
+File Name: E:\평평지구2\www.koreamanri.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m05_a.ttf
+File Name: E:\평평지구2\www.koreamanri.com\s\eastseadokdo\v26\xfuo0Wn2V2_KanASqXSZp22m05_a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0.ttf
+File Name: E:\평평지구2\www.koreamanri.com\s\nanummyeongjo\v31\9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notoserifkr/v31/3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncgBf852.ttf
+File Name: E:\평평지구2\www.koreamanri.com\s\notoserifkr\v31\3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncgBf852.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notoserifkr/v31/3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncjmeM52.ttf
+File Name: E:\평평지구2\www.koreamanri.com\s\notoserifkr\v31\3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncjmeM52.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6xSQ.ttf
+File Name: E:\평평지구2\www.koreamanri.com\s\yeonsung\v22\QldMNTpbohAGtsJvUn6xSQ.ttf
+Content Type: font/ttf
+
+Uri: https://i.namu.wiki/i/VnqWqBvjxcHxswDWPKyIinchC7ZIdLK1N5LfaklC7gnTyzvTRTlekzY8Ln249BOp5cWCv2QbtwSnjZ1OYDq8yQ.webp
+File Name: E:\평평지구2\www.koreamanri.com\i\VnqWqBvjxcHxswDWPKyIinchC7ZIdLK1N5LfaklC7gnTyzvTRTlekzY8Ln249BOp5cWCv2QbtwSnjZ1OYDq8yQ.webp
+Content Type: image/webp
+
+Uri: https://i.pinimg.com/1200x/ea/ff/c5/eaffc5798174bca27342dc968d58a61a.jpg
+File Name: E:\평평지구2\www.koreamanri.com\1200x\ea\ff\c5\eaffc5798174bca27342dc968d58a61a.jpg
+Content Type: image/jpeg
+
+Uri: https://i.pinimg.com/736x/1e/16/48/1e1648e22df86513371bdd6f6190c461.jpg
+File Name: E:\평평지구2\www.koreamanri.com\736x\1e\16\48\1e1648e22df86513371bdd6f6190c461.jpg
+Content Type: image/jpeg
+
+Uri: https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/200609/htm_20060904073327a000a010-001.JPG
+File Name: E:\평평지구2\www.koreamanri.com\news\component\htmlphoto_mmdata\200609\htm_20060904073327a000a010-001.JPG
+Content Type: image/jpeg
+
+Uri: https://raw.githubusercontent.com/projeffmanager-design/img/main/1778571134547_silk.png
+File Name: E:\평평지구2\www.koreamanri.com\projeffmanager-design\img\main\1778571134547_silk.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet-polylinedecorator@1.6.0/dist/leaflet.polylineDecorator.js
+File Name: E:\평평지구2\www.koreamanri.com\leaflet-polylinedecorator@1.6.0\dist\leaflet.polylineDecorator.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js
+File Name: E:\평평지구2\www.koreamanri.com\leaflet.heat@0.2.0\dist\leaflet-heat.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/leaflet@1.7.1/dist/images/layers-2x.png
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.7.1\dist\images\layers-2x.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.7.1/dist/images/layers.png
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.7.1\dist\images\layers.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.7.1\dist\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.7.1/dist/leaflet.css
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.7.1\dist\leaflet.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/images/layers-2x.png
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.9.4\dist\images\layers-2x.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/images/layers.png
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.9.4\dist\images\layers.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.9.4\dist\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.9.4\dist\leaflet.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+File Name: E:\평평지구2\www.koreamanri.com\leaflet@1.9.4\dist\leaflet.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css
+File Name: E:\평평지구2\www.koreamanri.com\maplibre-gl@4.7.1\dist\maplibre-gl.css
+Content Type: text/css
+
+Uri: https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js
+File Name: E:\평평지구2\www.koreamanri.com\maplibre-gl@4.7.1\dist\maplibre-gl.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/topojson-client@3.1.0/dist/topojson-client.min.js
+File Name: E:\평평지구2\www.koreamanri.com\topojson-client@3.1.0\dist\topojson-client.min.js
+Content Type: text/javascript
+
+Uri: https://www.koreamanri.com/
+File Name: E:\평평지구2\www.koreamanri.com\index.htm
+Content Type: text/html
+
+Uri: https://www.koreamanri.com/login.html
+File Name: E:\평평지구2\www.koreamanri.com\login.html
+Content Type: text/html
+
+Uri: https://www.koreamanri.com/register.html
+File Name: E:\평평지구2\www.koreamanri.com\register.html
+Content Type: text/html
+
+Uri: https://www.koreamanri.com/samjoko.png
+File Name: E:\평평지구2\www.koreamanri.com\samjoko.png
+Content Type: image/png
+

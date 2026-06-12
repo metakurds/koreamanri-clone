@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'East Sea Dokdo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m05_a.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yeon Sung';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/yeonsung/v22/QldMNTpbohAGtsJvUn6xSQ.ttf) format('truetype');
+}
